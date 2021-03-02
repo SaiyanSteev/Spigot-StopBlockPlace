@@ -9,6 +9,9 @@ A replacement for worldguard.
 
 *HOW TO USE*
 1.Put the file into your plugins folder
+
 2.Start/Reload the Server 
+
 3.Use /place <player> [time] or /break <player> [time]
+
 
