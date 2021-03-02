@@ -13,6 +13,6 @@ A replacement for worldguard.
 
 2.Start/Reload the Server 
 
-3.Use /place <<player>> [time] or /break <<player>> [time]
+3.Use /place playername [time] or /break playername [time]
 
 
